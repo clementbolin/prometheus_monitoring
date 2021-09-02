@@ -30,7 +30,7 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - grafana-storage:/var/lib/grafana
+      - ./grafana-storage:/var/lib/grafana
 
 volumes:
   prometheus_data:
