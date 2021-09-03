@@ -3,6 +3,8 @@
 Example project to create monitoring application in **Golang** with **Prometheus** and **Grafana** for the visualization.
 You don't need to install anything, expect [docker](https://docs.docker.com/engine/install/ubuntu/) and [docker-compose](https://docs.docker.com/compose/install/), for run the application.
 
+![architecture diagram](./assets/architecture.png)
+
 # 🔋 How to run
 
 You can easily run the app with [docker](https://docs.docker.com/engine/install/ubuntu/) and [docker-compose](https://docs.docker.com/compose/install/).
